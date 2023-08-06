@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed
-	xmlns='http://www.w3.org/2005/Atom'
-	xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
-	xmlns:blogger='http://schemas.google.com/blogger/2008'
-	xmlns:georss='http://www.georss.org/georss'
-	xmlns:gd="http://schemas.google.com/g/2005"
-	xmlns:thr='http://purl.org/syndication/thread/1.0'>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:blogger='http://schemas.google.com/blogger/2008' xmlns:georss='http://www.georss.org/georss' xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr='http://purl.org/syndication/thread/1.0'>
 	<id>tag:blogger.com,1999:blog-2358788270056537174</id>
 	<updated>2023-08-06T09:22:01.173-07:00</updated>
 	<category term="Forests"/>
